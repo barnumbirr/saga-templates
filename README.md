@@ -2,6 +2,9 @@
 
 Custom, hand-crafted templates for [Saga](https://saga.so).
 
+- [Keysets](/keysets/README.md)
+- [Recipes](/recipes/README.md)
+
 ## License
 
 ```
